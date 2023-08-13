@@ -1,0 +1,53 @@
+.body {
+  width: 100vh;
+}
+
+.inputContainer {
+  display: flex;
+}
+
+.productsContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.todoTable {
+  width: 90%;
+  border-collapse: collapse;
+}
+
+.todoTable th,
+.todoTable td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid black;
+}
+
+.todoTable th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.todoTable td {
+  background-color: white;
+}
+
+.todoTable tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.todoTable tr:hover {
+  background-color: #ddd;
+}
+
+.addToCart {
+  width: 100%;
+  height: 100%;
+}
+
+.stretch {
+  height: 100%;
+}
+

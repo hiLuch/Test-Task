@@ -1,0 +1,2 @@
+REACT_APP_GET_DATA_API=АПИ_ПОЛУЧЕНИЯ_ТОВАРОВ
+REACT_APP_POST_DATA_API=АПИ_ЗАПИСИ_ТОВАРОВ_В_КОРЗИНУ

@@ -1,0 +1,11 @@
+.layout {
+  max-height: 100vh;
+}
+
+.body {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  margin-right: 150px;
+  margin-top: 30px;
+}
